@@ -239,7 +239,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Q914B.kicad_pro",
+    "filename": "Q914C.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -310,7 +310,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "./",
     "spice_adjust_passive_values": false,
     "spice_external_command": "spice \"%I\"",
     "subpart_first_id": 65,
@@ -318,7 +318,7 @@
   },
   "sheets": [
     [
-      "3172f2e2-18d2-4a80-ae30-5707b3409798",
+      "c77147fc-ce2f-44b9-a99b-59e25c24852a",
       ""
     ]
   ],
